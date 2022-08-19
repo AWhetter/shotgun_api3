@@ -4,6 +4,10 @@
 [![Build Status](https://dev.azure.com/shotgun-ecosystem/Python%20API/_apis/build/status/shotgunsoftware.python-api?branchName=master)](https://dev.azure.com/shotgun-ecosystem/Python%20API/_build/latest?definitionId=108&branchName=master)
 [![Coverage Status](https://coveralls.io/repos/github/shotgunsoftware/python-api/badge.svg?branch=master)](https://coveralls.io/github/shotgunsoftware/python-api?branch=master)
 
+> :warning: This repo exists simply to upload the official shotgun_api3 package
+> to PyPI. Releases will be tagged as vX.Y.Z-pypi, where vX.Y.Z is the version
+> number used by the shotgun team.
+
 # Flow Production Tracking Python API
 
 Autodesk provides a simple Python-based API for accessing Flow Production Tracking and integrating with other tools. This is the official API that is maintained by Autodesk (https://knowledge.autodesk.com/contact-support)
