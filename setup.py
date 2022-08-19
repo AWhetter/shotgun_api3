@@ -20,6 +20,7 @@ setup(
     version='3.0.15',
     description='Shotgun Python API ',
     long_description=readme,
+    long_description_content_type='text/markdown',
     author='Shotgun Software',
     author_email='support@shotgunsoftware.com',
     url='https://github.com/shotgunsoftware/python-api',
